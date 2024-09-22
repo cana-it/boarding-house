@@ -15,7 +15,7 @@
 
 ## Technologies Used
 
-  - **Frontend**: HTML, CSS, JavaScript, Bootstrap
+  - **Frontend**: TaiwindCss, Shadcn UI, Radix UI
   - **Backend**: NextJs
   - **Database**: PostgreSQL
   - **APIs**: Google Maps API (for location services)
